@@ -120,8 +120,6 @@ while True:
                 cerebros = 0
                 passos = 0
                 pontua = 0
-            elif continuarTurno == 's':
-                tiros = 0
             else:
                 print("Resposta inválida! Use apenas 's' ou 'n', continuando! ")
 
